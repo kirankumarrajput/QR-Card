@@ -9,18 +9,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+  - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
+  Frontendmentor is the best place to learn Web development and build from basic to advanced project and fundamentals strong..
+  
 ### Screenshot
 
 ![](./Screenshot1.png)
@@ -28,11 +25,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kirankumarrajput.github.io/QR-Card/](https://kirankumarrajput.github.io/QR-Card/)
 
 ## My process
 
-firstly i built a structure using HTML and styling using the css that sit.
+Structure using HTML and styling using the css that sit.
 
 ### Built with
 
@@ -49,12 +46,12 @@ section and div work differently
 ## Author
 
 - [Kiran kumar]
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kirankumarrajput)
+- [@kirankumarrajput](https://www.frontendmentor.io/profile/kirankumarrajput)
 
 
 
 ## Acknowledgments
 
-Sometime a stuff in css someone who guide me..
+Sometime a stuck in css someone who guide me..
 
 
