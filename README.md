@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   
 ### Screenshot
 
-![img1](./Screenshot1.png)
-![img2](./Screenshot2.png)
+![img1](images/Screenshot1.png)
+![img2](images/Screenshot2.png)
 
 ### Links
 
